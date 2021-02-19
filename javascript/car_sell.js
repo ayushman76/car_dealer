@@ -41,8 +41,7 @@ car = () => {
 
     }, {
         img: 'image/ranould_duster.png',
-        Car_name: 'Ranault
-T Duster',
+        Car_name: 'Ranault Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
