@@ -6,49 +6,50 @@ car = () => {
     article.innerHTML += '<div class="container"><div class="row"><h3>Featured Cars For Sell</h3></div></div>';
     var my_product = [{
         img: 'image/ranould_duster.png',
-        Car_name: 'Renould Duster',
+        Car_name: 'Renault Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
 
     }, {
         img: 'image/ranould_duster.png',
-        Car_name: 'Renould Duster',
+        Car_name: 'Renault Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
 
     }, {
         img: 'image/ranould_duster.png',
-        Car_name: 'Renould Duster',
+        Car_name: 'Renault Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
 
     }, {
         img: 'image/ranould_duster.png',
-        Car_name: 'Renould Duster',
+        Car_name: 'Renault Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
 
     }, {
         img: 'image/ranould_duster.png',
-        Car_name: 'Renould Duster',
+        Car_name: 'Renault Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
 
     }, {
         img: 'image/ranould_duster.png',
-        Car_name: 'Renould Duster',
+        Car_name: 'Ranault
+T Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
 
     }, {
         img: 'image/ranould_duster.png',
-        Car_name: 'Renould Duster',
+        Car_name: 'Ranault Duster',
         Car_modal: '2017',
         Car_price: '1.7L',
         more: '+'
